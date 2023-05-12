@@ -23,4 +23,12 @@
 <br>
 
 ## :rocket: Results
+![img1](https://github.com/BL-30/ML-Time-Series-Prediction/assets/91438136/d4605623-6a44-4595-8161-f75782c0ad59)
+![img2](https://github.com/BL-30/ML-Time-Series-Prediction/assets/91438136/04b61fe3-832f-4c03-b25e-134483d254a0)
+![img3](https://github.com/BL-30/ML-Time-Series-Prediction/assets/91438136/fd7661d3-95d6-4de7-b73c-fa0c68c6bbf5)
+![img4](https://github.com/BL-30/ML-Time-Series-Prediction/assets/91438136/40c79874-ddd2-476c-a6df-cea00d48b371)
+![img5](https://github.com/BL-30/ML-Time-Series-Prediction/assets/91438136/7371a47c-8630-41e7-bc01-81d8678cdb0c)
+
+
+
 [BigDataPresentation.pdf](https://github.com/BL-30/ML-Time-Series-Prediction/files/11462981/BigDataPresentation.pdf)
