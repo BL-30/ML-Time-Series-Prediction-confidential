@@ -11,6 +11,8 @@
 <p align="center">
   Signal generation using : </p>
   
+  ACCURACY OF THE MODEL : 73% with a 10% max variation over the 5 past years ( 2018 - 2023 )
+  
   - LASSO, Ridge and GRID Search algos for features selection
   
   - Time series cross val for sizing training and testing datasets
